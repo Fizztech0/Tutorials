@@ -1,5 +1,7 @@
 # Tutorials
 
+This project is track my progress I follow along various tutorials available on Youtube and the Web.
+
     Disclaimer: Should you as the contents creator not be okay with me posting a reference to your content and
     in some cases copying parts to try it out myself then I would like to apologize.
     
