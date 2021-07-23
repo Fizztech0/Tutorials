@@ -1,4 +1,5 @@
-"tutorial",length,learn time
-"Why Combine Pandas and SQL",12,0
-"Sqlite 3 Python Tutorial in 5 minutes - Creating Database, Tables and Querying [2020]",5,60
-"Understanding Markdown",0,90
+"tutorial",length,learn time,date
+"Why Combine Pandas and SQL",12,0,21-07-22
+"Sqlite 3 Python Tutorial in 5 minutes - Creating Database, Tables and Querying [2020]",5,60,21-07-22
+"Understanding Markdown",0,90,21-07-22
+"Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)",60,150,21-07-23

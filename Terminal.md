@@ -1,5 +1,10 @@
 # Terminal
 
+## Installing with pip
+
+`pip3 install --user --only-binary :all: MODULENAME` installs packages with wheels only to the current
+user to avoid malicious code
+
 `clear` empty the terminal screen
 
 `ls` list files and directories
